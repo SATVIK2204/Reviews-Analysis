@@ -1,4 +1,4 @@
-# Review-Sentiment-Analyser
+# Information-Extracter-From-Reviews
 
 It is a program to find useful information from any review using Artificial Neural Network.
 
